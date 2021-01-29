@@ -2,7 +2,7 @@
 
 ## Description
 
-A Model View Controller App using handlbars, express and node.js.  This application is a lightweight blog application where users can create a login, post, comment and edit posts. 
+A Model View Controller App using handlbars, express and node.js.  This application is a lightweight blog application where users can create a login, post, comment and edit posts. CLICK TO VIEW SITE <a href="https://protected-island-74439.herokuapp.com/">here<a>
 
 <img src="/public/images/screenshot.png">
 
